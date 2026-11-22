@@ -1,6 +1,13 @@
 {
-  "version": 2,
+  "version": 3,
   "server_url": "https://api.core-edge-cloud.site",
-  "issued_at": 1794879422,
-  "sig": "MEUCIBEZxCHQ3arI9JEYr1hMbQFa5fmdnyLmGKxMAsEdsNUDAiEAtWORpaSeZNDP8me49IIkutff61X6+cCdBEEH62NeKdw="
+  "issued_at": 1795382476,
+  "sig": "MEUCIQDqKfWSALLLOL8DQl1Fv7pBM87wffolhrN0P+YGZiGScwIgVItckI3uR81y8mRtjaJgZmf93ELleTEahlyd/rEaY1M=",
+  "update": {
+    "min_version": 5,
+    "latest_version": 5,
+    "url": "https://bit.ly/skmediauk1",
+    "message": "A new SK Media is ready: smoother live TV and fewer freezes. Please update to keep watching."
+  },
+  "update_sig": "MEUCIAbUD5Ak1NUvKqsudcHbmiWxq9fAzmiN47+Y7b86HinrAiEApjXuJL9TWFujfOqwXubUWLBXdM3M/2B1yh2dhYtaLRA="
 }
